@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-#[E]
-#[M]
-#[A]
-#[N]
-#[U]
-#[E]
-#[L]
+## I am Axilot a self-tought developer developing some cool things. 
+
+## In a few weeks i might start publishing some things in here!
 
 <!--
 **Axilot/axilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
