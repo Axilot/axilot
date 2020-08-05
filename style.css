@@ -1,0 +1,7 @@
+.title {
+  text-align: center;
+}
+
+.title:hover {
+  opacity: 0;
+}
