@@ -1,20 +1,11 @@
-### Hi there 👋
+# Welcome to my Github profile!
 
-## I am Axilot a self-tought developer developing some cool things. 
+## Who am I and what will you see on my profile?
 
-## In a few weeks i might start publishing some things in here!
+### Hello, I am Axilot, a self-thought professional learning about git, Github and more! On my profile your going to see mainly go projects.
 
-<!--
-**Axilot/axilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Profile Stats
 
-Here are some ideas to get you started:
+[![Axilot's github stats](https://github-readme-stats.vercel.app/api?username=Axilot&theme=tokyonight&show_icons=true)](https://github.com/Axilot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axilot)](https://github.com/Axilot)
