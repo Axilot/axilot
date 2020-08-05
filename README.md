@@ -1,6 +1,6 @@
 <img width="100%" src="https://coverfiles.alphacoders.com/460/46067.jpg"/>
 
-# Welcome to my Github profile!
+<h1 align=center>Welcome to my Github profile!</h1>
 
 ### Hello, this is Axilot! I'm currently learning some basics about open source projects, so i can publish my projects on Github without any problems :-) Most likely you will see go projects on my account.
 
